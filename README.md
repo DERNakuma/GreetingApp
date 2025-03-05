@@ -1,1 +1,1 @@
-# GreetingAppDevelopment
+# GreetingApp
